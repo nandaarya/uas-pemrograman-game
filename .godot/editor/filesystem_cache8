@@ -1,0 +1,20 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1717768284
+icon.svg::CompressedTexture2D::5144149239701996150::1717752481::1717752486::1::::<><>::
+::res://Models/::1717752661
+::res://Models/SteampunkGun/::1717752665
+Copper2.tres::StandardMaterial3D::3404466932658590265::1687448255::0::1::::<><>::
+Copper.tres::StandardMaterial3D::5739940802481623350::1687448255::0::1::::<><>::
+Gem.tres::StandardMaterial3D::8586052973246784034::1687448255::0::1::::<><>::
+Metal2.tres::StandardMaterial3D::6887399288286698013::1687448255::0::1::::<><>::
+Metal3.tres::StandardMaterial3D::8426123170209232083::1687448255::0::1::::<><>::
+Metal.tres::StandardMaterial3D::2636206509064681500::1687448255::0::1::::<><>::
+Steampunk Rifle.glb::PackedScene::2717411700354757854::1687448255::1717752665::1::::<><>::
+Wood.tres::StandardMaterial3D::3000095229375507371::1687448255::0::1::::<><>::
+::res://Scenes/::1717767920
+Bullet.tscn::PackedScene::3735461312478268760::1717767920::0::1::::<><>::res://Scripts/Bullet.gd
+Player.tscn::PackedScene::8138585839074604565::1717767920::0::1::::<><>::res://Scripts/Player.gd<>uid://bqpwh2qhltcpn::::res://Scenes/Rifle.tscn
+Rifle.tscn::PackedScene::3541757565791534139::1717767920::0::1::::<><>::uid://beylmx8mc8h0i::::res://Models/SteampunkGun/Steampunk Rifle.glb<>uid://bds863cq6gruq::::res://Models/SteampunkGun/Metal.tres<>uid://dsbxaujpenxuh::::res://Models/SteampunkGun/Metal3.tres<>uid://bi0jeon1tbvt0::::res://Models/SteampunkGun/Wood.tres<>uid://c5ekpv1qstkft::::res://Models/SteampunkGun/Metal2.tres<>uid://dulfbj71v4s8a::::res://Models/SteampunkGun/Gem.tres<>uid://borfcqmqsctyn::::res://Models/SteampunkGun/Copper2.tres<>uid://cn1p8sjrg3vfy::::res://Models/SteampunkGun/Copper.tres
+::res://Scripts/::1717754168
+Bullet.gd::GDScript::-1::1687448255::0::1::::<>Node3D<>::
+Player.gd::GDScript::-1::1687448255::0::1::::<>CharacterBody3D<>::
